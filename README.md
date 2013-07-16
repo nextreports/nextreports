@@ -1,6 +1,6 @@
 NextReports
 ===================
-NextReports is a free Java business reporting software.
+[NextReports] (http://www.next-reports.com/) is a free Java business reporting software.
 
 Components
 -------------------
