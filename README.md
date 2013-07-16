@@ -4,10 +4,10 @@ NextReports
 
 Components
 -------------------
-- **NextReports Designer** is an application able to design in-grid reports, using connections to most popular databases like Oracle, MySql, MSSQL, PostgreSLQ, Firebird, Derby and SQLite.  
+- **NextReports Designer** is an application able to design in-grid reports, using connections to most popular databases like Oracle, MySql, MSSQL, PostgreSQL, Firebird, Derby and SQLite.  
 NextReports Designer has an intuitive interface that makes report creation a quick and easy task. The designer has a convenient single-click publish/download mechanism for NextReports Server.
 
-- **NextReports Engine** is a Java platform development library which can be used to run NextReports inside your applications.   
+- **NextReports Engine** is a Java platform development library which can be used to run NextReports inside your applications.
 This library is light and very easy to use.
 
 - **NextReports Server** allows you to schedule NextReports and Jasper reports and to automatically deliver reports via E-mail, FTP, SSH, Windows Share, WebDAV to your business contacts in most popular file formats like HTML, EXCEL, PDF, RTF, CSV, TSV, TXT, XML.   
