@@ -17,6 +17,14 @@ NextReports Server will present your charts, table reports and alarm reports in 
 Users can perform data analyze using drill-down and pivot structures.  
 NextReports Server is now fully open source and it can be find [here](https://github.com/nextreports/nextreports-server). You can send pull requests, fork or add issues.
 
+Acknowledgement
+--------------
+YourKit is supporting Genomix open source project with its full-featured Java Profiler.
+YourKit, LLC is the creator of innovative and intelligent tools for profiling
+Java and .NET applications. Take a look at YourKit's leading software products:
+<a href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java Profiler</a> and
+<a href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET Profiler</a>.
+
 License
 --------------
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with
