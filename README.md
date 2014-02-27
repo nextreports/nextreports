@@ -19,6 +19,11 @@ NextReports Server is now fully open source and it can be find [here](https://gi
 
 Acknowledgement
 --------------
+[<img src="http://www.jetbrains.com/idea/opensource/img/all/banners/idea125x37_blue.gif">](http://www.jetbrains.com/idea/)  
+JetBrains is supporting NextReports open source project with its smart Java IDE.  
+
+
+[<img src="logo_yourkit.png">](http://www.yourkit.com/java/profiler/index.jsp)  
 YourKit is supporting NextReports open source project with its full-featured Java Profiler.   
 YourKit, LLC is the creator of innovative and intelligent tools for profiling Java and .NET applications.    
 Take a look at YourKit's leading software products: 
